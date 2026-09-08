@@ -1,4 +1,4 @@
-Cette ligne a été modifiée dan sla branche master
+Ligne modifiée pour créer un mergo conflicto
 Il a été créé pour prouver que killian n'est pas le maitre
 et que le master possède les autres branches crées précemment
 master corbeau sur une branche perché
